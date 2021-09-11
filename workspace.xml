@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b8e7059-e6da-4e8a-996b-3d609737081e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TicTacToe/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Downloads - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/Frame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/InfoBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/IntegerSelection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/IntegerSelection$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/IntegerSelection$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/IntegerSelection$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/IntegerSelection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MRIReader/reading/wp017668/MRIReader/IntegerSelection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reading/wp017668/MRIReader/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reading/wp017668/MRIReader/Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reading/wp017668/MRIReader/InfoBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reading/wp017668/MRIReader/InfoBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reading/wp017668/MRIReader/IntegerSelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reading/wp017668/MRIReader/IntegerSelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentals/CS1FC16 Laboratory Experiment hong.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentals/Quicksort Algorythm writeup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Graph of browsers.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Movimientos deportes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/DataSet$DataItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/DataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/GraphPlot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/LinearLayerNetwork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/LinearNeuron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/MLPwithDataSets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/MultiLayerNetwork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/NeuralNet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/ScaledDataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/SigmoidLayerNetwork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/SigmoidNeuron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/bin/CS2NN16/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/iristrain.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/irisunseen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/other.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/DataSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/GraphPlot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/LinearLayerNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/LinearNeuron.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/MLPwithDataSets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/MultiLayerNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/NeuralNet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/ScaledDataSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/SigmoidLayerNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/SigmoidNeuron.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/src/CS2NN16/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/unseen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/usertrain.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/userunseen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/uservalid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NeuralNets201819/valid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programming project.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Software engineering/Computer science Degree product breakdown structure.mvdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../breakfast-voucher-2-for-1 loch fyne.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csgitlab/Project 1/wp017668" beforeDir="false" afterPath="$PROJECT_DIR$/../../csgitlab/Project 1/wp017668" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csgitlab/wp017668" beforeDir="false" afterPath="$PROJECT_DIR$/../../csgitlab/wp017668" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-awesome-project-week8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/aysan/hello/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/aysan/hello/Initials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/aysan/hello/NameCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/aysan/hello/SCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/uk/ac/reading/aysan/buildingconsole/Building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/uk/ac/reading/aysan/buildingconsole/BuildingInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/uk/ac/reading/aysan/buildingconsole/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/uk/ac/reading/aysan/buildingconsole/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/week2/AnagramCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/week2/MultiAnagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/week2/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/week2/SmallestDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work-master/src/week2/StringSplitter.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/Frame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="398" column="30" selection-start-line="398" selection-start-column="30" selection-end-line="398" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/IntegerSelection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/InfoBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="159" column="26" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6279#6280#0" expanded="true" />
+                <element signature="e#6311#6312#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>openNift</find>
+      <find>b</find>
+      <find>niftiset</find>
+      <find>currentX</find>
+      <find>coronal</find>
+      <find>ib</find>
+      <find>resize</find>
+      <find>ILLUMINATION</find>
+      <find>currentZ</find>
+      <find>axial</find>
+      <find>coronal.setL</find>
+      <find>largeVi</find>
+      <find>lines</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/reading/wp017668/MRIReader/Main.java" />
+        <option value="$PROJECT_DIR$/src/reading/wp017668/MRIReader/IntegerSelection.java" />
+        <option value="$PROJECT_DIR$/src/reading/wp017668/MRIReader/InfoBar.java" />
+        <option value="$PROJECT_DIR$/src/reading/wp017668/MRIReader/Frame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MRIReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MRIReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MRIReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MRIReader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MRIReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MRIReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MRIReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MRIReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MRIReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584473892477" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TicTacToe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reading.wp017668.MRIReader.Main" />
+      <module name="MRIReader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reading.wp017668.MRIReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b8e7059-e6da-4e8a-996b-3d609737081e" name="Default Changelist" comment="" />
+      <created>1575472021634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575472021634</updated>
+      <workItem from="1575472025958" duration="6903000" />
+      <workItem from="1575559147975" duration="11745000" />
+      <workItem from="1576021282038" duration="129000" />
+      <workItem from="1579189842172" duration="7945000" />
+      <workItem from="1579798570005" duration="2726000" />
+      <workItem from="1580222232395" duration="5733000" />
+      <workItem from="1580913667216" duration="6426000" />
+      <workItem from="1581438748708" duration="144000" />
+      <workItem from="1582851340427" duration="623000" />
+      <workItem from="1583181411000" duration="12866000" />
+      <workItem from="1583495351607" duration="2235000" />
+      <workItem from="1584469959775" duration="3827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16107382" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.12322946" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1713881" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/IntegerSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/InfoBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="159" column="26" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6279#6280#0" expanded="true" />
+            <element signature="e#6311#6312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reading/wp017668/MRIReader/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="398" column="30" selection-start-line="398" selection-start-column="30" selection-end-line="398" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
